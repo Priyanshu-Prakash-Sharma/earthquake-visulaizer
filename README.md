@@ -6,6 +6,12 @@ An interactive web application to visualize recent earthquake activity around th
 
 This project was built to provide a simple, intuitive way for geography students and enthusiasts to explore real-time seismic patterns. Using data from the USGS, the application plots recent earthquakes on an interactive world map, providing a clear visual representation of global seismic activity.
 
+## 🚀 Live Demo
+
+Check out the live application here:
+
+[Earthquake Visulizer]()
+
 ## ✨ Features
 
 - **Real-time Data**: Fetches the latest earthquake data from the USGS API.
@@ -20,21 +26,15 @@ This project was built to provide a simple, intuitive way for geography students
 
 - **Responsive Design**: The application is designed to be user-friendly on both desktop and mobile devices.
 
-## 🚀 Live Demo
-
-Check out the live application here:
-
-Live Demo on Vercel
-
 ## 🛠️ Technology Stack
 
-Frontend Framework: React.js (built with Vite)
+- **Frontend Framework:** React.js (built with Vite)
 
-Styling: Tailwind CSS
+- **Styling:** Tailwind CSS
 
-Mapping Library: react-leaflet (a React wrapper for the Leaflet.js library)
+- **Mapping Library:** react-leaflet (a React wrapper for the Leaflet.js library)
 
-Data Source: USGS Earthquake API
+- **Data Source:** USGS Earthquake API
 
 ## 📦 Installation & Setup
 
@@ -48,30 +48,35 @@ git clone https://github.com/your-github-username/earthquake-visualizer.git
 ```bash
 cd earthquake-visualizer
 ```
+- **Ensure Node.js and npm are installed:**
+  
+  Download and Install Latest LTS version of Node.js from [nodejs.org](https://nodejs.org/). This will also install npm.
+  
+- **Install dependencies:**
 
-Install dependencies:
-
+```bash
 npm install
+```
 
-Start the development server:
-
+- **Start the development server:**
+```bash
 npm run dev
-
-The application will be available at http://localhost:5173.
+```
+- **The application will be available at http://localhost:5173.**
 
 ## 📈 Planned Features
 
-I am planning to add the following features to enhance the application:
+**I am planning to add the following features to enhance the application:**
 
-- Interactive Sidebar: A sidebar to display a list of all recent earthquakes.
+- **Interactive Sidebar:** A sidebar to display a list of all recent earthquakes.
 
-- Search & Filtering: Allow users to search for specific locations or filter earthquakes by magnitude.
+- **Search & Filtering:** Allow users to search for specific locations or filter earthquakes by magnitude.
 
-- Theming: A dark mode and light mode toggle.
+- **Theming:** A dark mode and light mode toggle.
 
-- Legend: A visual legend to explain the marker colors and sizes.
+- **Legend:** A visual legend to explain the marker colors and sizes.
 
-- Sorting: Mechanism to sort the list of earthquakes by magnitude or time.
+- **Sorting:** Mechanism to sort the list of earthquakes by magnitude or time.
 
 ## 🤝 Contribution
 
