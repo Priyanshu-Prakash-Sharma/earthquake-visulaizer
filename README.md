@@ -40,10 +40,14 @@ Data Source: USGS Earthquake API
 
 To run this project locally, follow these steps:
 
-Clone the repository:
-
+- **Clone the repository:**
+```bash
 git clone https://github.com/your-github-username/earthquake-visualizer.git
+```
+- **Navigate into Project Directory:**
+```bash
 cd earthquake-visualizer
+```
 
 Install dependencies:
 
