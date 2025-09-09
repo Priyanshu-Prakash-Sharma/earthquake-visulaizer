@@ -8,17 +8,17 @@ This project was built to provide a simple, intuitive way for geography students
 
 ## ✨ Features
 
-Real-time Data: Fetches the latest earthquake data from the USGS API.
+- **Real-time Data**: Fetches the latest earthquake data from the USGS API.
 
-Interactive Map: Utilizes react-leaflet to display an interactive world map.
+- **Interactive Map**: Utilizes react-leaflet to display an interactive world map.
 
-Continuous World View: The map seamlessly wraps horizontally, allowing for an endless view of the globe.
+- **Continuous World View**: The map seamlessly wraps horizontally, allowing for an endless view of the globe.
 
-Visual Magnitude Indicators: Earthquake markers are colored and sized according to their magnitude, making it easy to identify the most significant events at a glance.
+- **Visual Magnitude Indicators**: Earthquake markers are colored and sized according to their magnitude, making it easy to identify the most significant events at a glance.
 
-Detailed Popups: Clicking on a marker reveals a popup with detailed information about the earthquake, including magnitude, location, and time.
+- **Detailed Popups**: Clicking on a marker reveals a popup with detailed information about the earthquake, including magnitude, location, and time.
 
-Responsive Design: The application is designed to be user-friendly on both desktop and mobile devices.
+- **Responsive Design**: The application is designed to be user-friendly on both desktop and mobile devices.
 
 ## 🚀 Live Demo
 
