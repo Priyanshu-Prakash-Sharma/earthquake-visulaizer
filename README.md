@@ -10,7 +10,7 @@ This project was built to provide a simple, intuitive way for geography students
 
 Check out the live application here:
 
-[Earthquake Visulizer]()
+[Earthquake Visulizer](https://earthquake-visulaizer.vercel.app/)
 
 ## ✨ Features
 
