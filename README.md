@@ -1,12 +1,12 @@
-🌍 EarthQuake Visualizer
+## 🌍 EarthQuake Visualizer
 
 An interactive web application to visualize recent earthquake activity around the world.
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project was built to provide a simple, intuitive way for geography students and enthusiasts to explore real-time seismic patterns. Using data from the USGS, the application plots recent earthquakes on an interactive world map, providing a clear visual representation of global seismic activity.
 
-✨ Features
+## ✨ Features
 
 Real-time Data: Fetches the latest earthquake data from the USGS API.
 
@@ -20,13 +20,13 @@ Detailed Popups: Clicking on a marker reveals a popup with detailed information 
 
 Responsive Design: The application is designed to be user-friendly on both desktop and mobile devices.
 
-🚀 Live Demo
+## 🚀 Live Demo
 
 Check out the live application here:
 
 Live Demo on Vercel
 
-🛠️ Technology Stack
+## 🛠️ Technology Stack
 
 Frontend Framework: React.js (built with Vite)
 
@@ -36,7 +36,7 @@ Mapping Library: react-leaflet (a React wrapper for the Leaflet.js library)
 
 Data Source: USGS Earthquake API
 
-📦 Installation & Setup
+## 📦 Installation & Setup
 
 To run this project locally, follow these steps:
 
@@ -59,20 +59,20 @@ npm run dev
 
 The application will be available at http://localhost:5173.
 
-📈 Planned Features
+## 📈 Planned Features
 
 I am planning to add the following features to enhance the application:
 
-[ ] Interactive Sidebar: A sidebar to display a list of all recent earthquakes.
+- Interactive Sidebar: A sidebar to display a list of all recent earthquakes.
 
-[ ] Search & Filtering: Allow users to search for specific locations or filter earthquakes by magnitude.
+- Search & Filtering: Allow users to search for specific locations or filter earthquakes by magnitude.
 
-[ ] Theming: A dark mode and light mode toggle.
+- Theming: A dark mode and light mode toggle.
 
-[ ] Legend: A visual legend to explain the marker colors and sizes.
+- Legend: A visual legend to explain the marker colors and sizes.
 
-[ ] Sorting: Mechanism to sort the list of earthquakes by magnitude or time.
+- Sorting: Mechanism to sort the list of earthquakes by magnitude or time.
 
-🤝 Contribution
+## 🤝 Contribution
 
 This project is open-source. Feel free to fork the repository, make changes, and submit a pull request. Any contributions are highly appreciated!
