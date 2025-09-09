@@ -1,4 +1,4 @@
-## 🌍 EarthQuake Visualizer
+# 🌍 EarthQuake Visualizer
 
 An interactive web application to visualize recent earthquake activity around the world.
 
