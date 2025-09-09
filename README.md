@@ -42,18 +42,14 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 
-Bash
-
 git clone https://github.com/your-github-username/earthquake-visualizer.git
 cd earthquake-visualizer
+
 Install dependencies:
 
-Bash
-
 npm install
-Start the development server:
 
-Bash
+Start the development server:
 
 npm run dev
 
