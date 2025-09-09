@@ -1,7 +1,3 @@
-A great README.md file is the face of your project. It explains what your project is, how it works, and how others can use it. This is crucial for your company assignment and for your portfolio.
-
-Here is a comprehensive README.md template for your Earthquake Visualizer. You can copy and paste this directly into a file named README.md in the root of your project.
-
 🌍 EarthQuake Visualizer
 An interactive web application to visualize recent earthquake activity around the world.
 
@@ -24,7 +20,7 @@ Responsive Design: The application is designed to be user-friendly on both deskt
 🚀 Live Demo
 Check out the live application here:
 
-Live Demo on Vercel 
+Live Demo on Vercel
 
 🛠️ Technology Stack
 Frontend Framework: React.js (built with Vite)
@@ -71,3 +67,5 @@ I am planning to add the following features to enhance the application:
 
 🤝 Contribution
 This project is open-source. Feel free to fork the repository, make changes, and submit a pull request. Any contributions are highly appreciated!
+
+📄 License
